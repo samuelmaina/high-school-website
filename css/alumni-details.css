@@ -1,0 +1,53 @@
+.main {
+  margin-top: 0;
+  height: 70vh;
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.prompt {
+  margin-top: 1.5rem;
+  display: flex;
+  height: 4rem;
+  width: 100%;
+  justify-content: center;
+}
+.sign-up,
+.login,
+.insert-button {
+  height: 3.4rem;
+  width: 10rem;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 5px;
+  text-align: center;
+  line-height: 3rem;
+  border-radius: 7px;
+  border: 2px solid rgb(250, 215, 215);
+  color: aliceblue;
+}
+.insert-button {
+  background-color: rgb(29, 167, 41);
+}
+.login {
+  background-color: rgb(71, 61, 156);
+}
+.sign-up {
+  background-color: rgb(55, 164, 236);
+}
+.alumini {
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid rgb(252, 237, 244);
+  padding: 10px;
+  margin-bottom: 1.5rem;
+}
+.alumini .aluminus {
+  padding: 0 3rem;
+}
+.alumini .aluminus img {
+  float: left;
+  height: 20rem;
+  width: 20rem;
+  margin: 6px;
+}

@@ -1,0 +1,21 @@
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+.history {
+  border-radius: 5px;
+  margin: 20px;
+  height: 70vh;
+  width: 80%;
+  text-align: center;
+  border: 2px solid rgb(139, 139, 139);
+  box-shadow: 2px 5px 10px rgb(145, 144, 144);
+}
+.history img {
+  border-radius: 5px;
+  margin: 5px;
+  float: left;
+  height: 70%;
+  width: 30%;
+}

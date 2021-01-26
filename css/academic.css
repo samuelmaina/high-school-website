@@ -1,0 +1,12 @@
+
+.main{
+    display: flex;
+}
+.past-kcse-performance {
+    margin: 20px;
+ text-align: justify;
+  height: 40vh;
+  text-align: center;
+  border: 2px solid rgb(139, 139, 139);
+  box-shadow: 2px 5px 5px rgb(145, 144, 144);
+}

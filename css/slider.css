@@ -1,0 +1,14 @@
+.slideshow {
+  display: flex;
+justify-content: center;
+  height: 70vh;
+  margin-top:1px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+.slideshow img {
+  border-radius: 4px;
+  padding: 0 5rem;
+  height: 70vh;
+  width: 80%;
+}
