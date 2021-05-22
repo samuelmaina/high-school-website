@@ -15,7 +15,7 @@ require( '../php/connect-to-database.php' );
     <form action="../php/store_details.php" method="POST" enctype="multipart/form-data">
         <div class="form-container">
             <label for="file">Select your profile picture </label>
-            <input type="file" name="alumni_image" id="alumni_image">
+            <input type="file" name="image" id="image">
             <label for="name">Your official name</label>
             <input type="text" name='name' id='name'><br>
             <label for="admin_no">School Admission number</label>

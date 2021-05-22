@@ -49,7 +49,7 @@ require( '../php/connect-to-database.php' );
                                <img src='$image_url' alt='' class='profile-picture' >
                                 <p> current profile picture</P>
                                 <label for='file'>Select new one</label>
-                                <input type='file' name='alumni_image' id='alumni_image'>
+                                <input type='file' name='image' id='image'>
                                 <label for='name'>Your official name</label>
                                 <input type='hidden' name='image_url' id='name' value='$image_url'>
                                 <input type='text' name='name' id='name' value='$name'><br>
